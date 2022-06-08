@@ -6,7 +6,7 @@
 
 ```json
 {
-    "extends": ["github>HikaruEgashira/renovate"]
+  "extends": ["github>hayashikengo/renovate"]
 }
 ```
 
@@ -19,7 +19,7 @@
   ...
   "renovate-config": {
     "default": {
-      "extends": ["github>HikaruEgashira/renovate"]
+      "extends": ["github>hayashikengo/renovate"]
     }
   }
 }
